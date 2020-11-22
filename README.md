@@ -8,5 +8,5 @@
 
 ---
 # what I recently added
-- [ ] Responsive portrait and landscape design
+- [x] Responsive portrait and landscape design
 
