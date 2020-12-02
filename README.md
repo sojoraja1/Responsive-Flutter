@@ -9,4 +9,5 @@
 ---
 # what I recently added
 - [x] Responsive portrait and landscape design
+- [x] Contact UI added
 
